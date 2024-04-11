@@ -1,0 +1,76 @@
+- url: https://skylab.cdph.ca.gov/ODdash/
+  org: CDPH
+  title: Opioid Overdose Survey
+- url: https://calcat.covid19.ca.gov/cacovidmodels/
+  org: CDPH
+  title: CalCat (covid-19)
+- url: https://skylab.cdph.ca.gov/communityBurden/#tab-2190-1
+  org: CDPH
+  title: CCB (Disease and Cost Engine)
+- url: https://covid19risk.biosci.gatech.edu
+  org: Georgia Institute of Technology
+  title: COVID-19 Event Risk Assessment
+- url: https://secure.capitalbikeshare.com/map/
+  org: Capital Bikeshare
+  title: Find a Bike
+- url: https://tools.hymans.co.uk/tprfasttrack/
+  org: hymans.co.uk
+  title: Fast Track Test
+- url: https://nzcoviddashboard.esr.cri.nz/
+  org: ESR (New Zealand Research)
+  title: New Zealand Covid-19 Dashboard
+- url: https://worldhealthorg.shinyapps.io/covid/
+  org: WHO
+  title: Covid-19 Explorer
+- url: https://reports.msf.net/public/covid19/
+  org: Epicentre
+  title: Covid-19 EPI Dashboard
+- url: https://bcstats.shinyapps.io/housing-data-challenge-ruby/
+  org: British Columbia
+  title: BC - Housing Market
+- url: https://bcstats.shinyapps.io/so_data_viewer/
+  org: British Columbia
+  title: BC - Student Outcomes
+- url: https://bcstats.shinyapps.io/popApp/
+  org: British Columbia
+  title: BC - Population Estimates
+- url: https://www.qgso.qld.gov.au/statistics/theme/economy/labour-employment/state/payroll-jobs-wages
+  org: Queensland Department of Treasury
+  title: Payroll Jobs and Wages
+- url: https://www.qgso.qld.gov.au/statistics/theme/industry-development/retail/retail-trade/retail-trade-interactive-visualisation
+  org: Queensland Department of Treasury
+  title: Retail Trade
+- url: https://rconnect.dfci.harvard.edu/covidpr/
+  org: Harvard
+  title: Monitoreo de COVID-19 en Puerto Rico
+- url: http://www.de-brouwer.com/about/covid.html
+  org: Philippe De Brouwer (personal)
+  title: Covid-19 Dashboard
+- url: https://rtools.mayo.edu/home/
+  org: Mayo Clinic
+  title: Mayo Clinic BSI Apps
+- url: https://data-viz.it.wisc.edu/covid-19-screening/
+  org: University of Wisconsin-Madison
+  title: COVID-19 screening - college reopenings
+- url: https://covid19dashboard.regeneron.com/?tab=Home&subTab=Europe
+  org: Regeneron
+  title: COVID-19 Dashboard
+- url: https://www.in.gov/gwc/cte/employer-connector/
+  org: Indiana Dept. of Education
+  title: Career and Tech Education Employer Connector
+- url: https://www.americanschooldistrictpanel.org/survey-results/2021-summer.html
+  org: RAND Corporation
+  title: American School District Panel
+- url: https://shinyapps.urban.org/urbnmapr-shiny/
+  org: Urban Institute
+  title: Let's Make a Map!
+- url: https://19andme.covid19.mathematica.org
+  org: Mathematica
+  title: COVID-19 Risk Score Calculator
+- url: https://socialmediaage.norc.org/
+  org: NORC
+  title: What's my social media age?
+- url: https://www.edanalytics.org/blog/using-shiny-to-enhance-the-interpretation-and-accessibility-of-educational-data
+  org: Education Analytics
+  title: Using Shiny to enhance the interpretability and accessibility of educational
+    data
