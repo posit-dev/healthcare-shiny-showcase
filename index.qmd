@@ -1,0 +1,9 @@
+---
+title: "Healthcare Shiny App Showcase"
+format: html
+listing: 
+  contents: apps.yml
+  type: grid  
+  template: showcase.ejs
+---
+

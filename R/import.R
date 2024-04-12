@@ -1,12 +1,14 @@
 library(googledrive)
-library(googlesheets4)
 library(yaml)
 library(dplyr)
+library(readr)
 library(here)
 
-apps <- drive_get(id = as_id("12HDbqfXia6gq4koKHf6DGgOgWGkq_hl8o6iJxIG4Ucw")) |> 
-  read_sheet() 
+sheet <- drive_download(as_id("12HDbqfXia6gq4koKHf6DGgOgWGkq_hl8o6iJxIG4Ucw"),
+  here("data", "raw.csv"))
+
+apps <- read_csv(here("data", "raw.csv"))
 
 apps |> 
-  select(url = Application, org = Organization, title = Project) |> 
+  select(url, org, title, thumbnail) |> 
   write_yaml(here("apps.yml"), column.major = FALSE)
