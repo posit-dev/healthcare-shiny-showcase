@@ -1,27 +1,29 @@
 
 ```{=html}
-<div class="list grid" style="column-gap: 10px;">
+<div class="list grid" style="column-gap: 20px;">
 
-<% for (const item of items) { %>
-
-  <div class="card rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" <%= metadataAttrs(item) %>>
-    <div class="card-header rounded-top-3 py-1 px-2 border-bottom border-1 bg-light">
-      <small class="card-text inline-block">
-        <a href="<%- item.url %>" class="listing-title"><%= item.title %></a>
-        <span class="text-muted listing-subtitle"><%= item.author %></span>
-      </small>
+  <% for (const item of items) { %>
+    <div class="card border g-col-12 g-col-md-6 g-col-lg-4 mb-4">
+    <div class = "card-img-top border-bottom">
+      <a href="<%- item.url %>" target="_blank">
+        <div class="rounded-0">
+            <img src="thumbnails/<%- item.thumbnail %>" alt="<%- item.description %>" class="card-img-top gallery-entry__img rounded-0" />
+        </div>
+      </a>
     </div>
-    <a href="<%- item.url %>">
-      <img src="thumbnails/<%- item.thumbnail %>" alt="<%- item.description %>" class="card-img-top"/>
-    </a>
+    <div class = "card-body">
+      <h5 class="mt-3 mb-2"><%= item.title %></h5>
+      <div class="text-uppercase font-monospace"><%= item.org %></div>
+      
+      <div class="text-muted"><p>Short description of shiny app goes here</p></div>
+    </div>
     
-    <% if (item.publicationdate) { %> 
-      <b class="listing-publicationdate"><%= item.publicationdate %></b>
-    <% } %>
-    
-  </div>
-<% } %>
+    <div class="card-footer">
+      <div class="view-app"><a href="<%- item.url %>" target="_blank" class="btn btn-outline-primary">View app</a></div>
+    </div>
 
+  </div>
+  <% } %>
 </div>
 
 ```
