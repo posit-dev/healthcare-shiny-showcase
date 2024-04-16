@@ -1,6 +1,12 @@
 project:
   type: website
 
+website:
+  page-footer: 
+    center: |
+      Compiled by
+        [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
+
 format: 
   html:
     theme: [cosmo, styles.scss]
