@@ -1,5 +1,8 @@
 ---
 title: "Shiny in Healthcare"
+format: 
+  html:
+    page-layout: full
 listing: 
   contents: apps.yml
   template: showcase.ejs
