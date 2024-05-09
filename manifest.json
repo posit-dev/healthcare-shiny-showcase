@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.3.3",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "99.9.9",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_publish.yml": {
+      "checksum": "f8d29291227e4c7c74c716092ca0552c"
+    },
+    "_quarto.yml": {
+      "checksum": "a47e2244d3b9e4b9bab7fba4a621f8c6"
+    },
+    "_site/_style.css": {
+      "checksum": "8304ec53b5b15621f10d2374af8834d9"
+    },
+    "_site/index.html": {
+      "checksum": "4db0500ffade468a4998e1995e033012"
+    },
+    "_site/listings.json": {
+      "checksum": "30be880ded89a554b925ac50e7a1e5ea"
+    },
+    "_site/search.json": {
+      "checksum": "74a1fd860bf7f1e847d9b3cf6ed3cc64"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.css": {
+      "checksum": "74301d58de6c5d449a61c7fccb2174e4"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "_site/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_site/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "_site/site_libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "ab2b9e94a89b131e869fd951d6355545"
+    },
+    "_site/site_libs/quarto-html/quarto.js": {
+      "checksum": "740dc63f26b9ba45dbcfaec4daf6fb74"
+    },
+    "_site/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_site/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_site/site_libs/quarto-listing/list.min.js": {
+      "checksum": "df008d556d30a58784f086e4b3eec307"
+    },
+    "_site/site_libs/quarto-listing/quarto-listing.js": {
+      "checksum": "77cf2d966f525295f151063bfdc627a7"
+    },
+    "_site/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "12d334846b27bdb493298c08277bdf7f"
+    },
+    "_site/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "c64544db941e048f2652217cb9a7f29c"
+    },
+    "_site/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_site/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "b7c6b7b5b20051c7e6db312a2588cbf7"
+    },
+    "_site/thumbnails/19andme.covid19.mathematica.org_.png": {
+      "checksum": "6c9fb10301b253cd7f90a2ebb5cae650"
+    },
+    "_site/thumbnails/appshare.cancer.gov_connect_.png": {
+      "checksum": "d0699e1ef1fdea87fe918e8895934c90"
+    },
+    "_site/thumbnails/calcat.covid19.ca.gov_cacovidmodels.png": {
+      "checksum": "93ac3cfbd6a14d40ad7a3df7e61797ec"
+    },
+    "_site/thumbnails/covid19dashboard.regeneron.com_content_1__tab=Home.png": {
+      "checksum": "179d442bcc5562ad2478103f3f51d8e8"
+    },
+    "_site/thumbnails/covid19risk.biosci.gatech.edu_.png": {
+      "checksum": "bcb035f56fd2f3d2ed4867358d9a0774"
+    },
+    "_site/thumbnails/dnahive.fda.gov_vmap_norovirus_epitope_.png": {
+      "checksum": "3d9aea5553950799cb641ba6af091fe2"
+    },
+    "_site/thumbnails/dnahive.fda.gov_vmap_norovirus_genotype_.png": {
+      "checksum": "5713a388fbb68628cc814b7b9d4bfcbd"
+    },
+    "_site/thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=library.png": {
+      "checksum": "e7bc9e707bc8982bf9a7d2fce02b040d"
+    },
+    "_site/thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=selectivity.png": {
+      "checksum": "9a90b5280e184296197e2abe82689445"
+    },
+    "_site/thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=similarity.png": {
+      "checksum": "cc61f5e0c02d85a09d110491e83118f6"
+    },
+    "_site/thumbnails/phdb.shinyapps.io_covid_.png": {
+      "checksum": "1d6de7cc0890e34cfb0b16aca12b4998"
+    },
+    "_site/thumbnails/poops.nz_.png": {
+      "checksum": "773547d697a8eab7b010738f8f298ba3"
+    },
+    "_site/thumbnails/rconnect.dfci.harvard.edu_covidpr_.png": {
+      "checksum": "4529b5a373dc5ff46bd6b6759b3af60c"
+    },
+    "_site/thumbnails/reports.msf.net_public_covid19_.png": {
+      "checksum": "863d0ba04e5c6d0ccfdfe9837d7eb4ed"
+    },
+    "_site/thumbnails/rtools.mayo.edu_a_milestone_prediction_.png": {
+      "checksum": "ea3122d0db4982682133107a9bb7559c"
+    },
+    "_site/thumbnails/rtools.mayo.edu_DART_.png": {
+      "checksum": "d92e0082194dd11aed68198242f9896e"
+    },
+    "_site/thumbnails/rtools.mayo.edu_diagnostic_test_calculator_.png": {
+      "checksum": "e0b7c761b033f10e6bd5f609c231d379"
+    },
+    "_site/thumbnails/rtools.mayo.edu_dlbcl_trial_eligibility_.png": {
+      "checksum": "1f36596a4f56c1292af871f94f181c0b"
+    },
+    "_site/thumbnails/rtools.mayo.edu_flipi24_calculator_.png": {
+      "checksum": "f03fb4acfec350164e57f5fe1108fac1"
+    },
+    "_site/thumbnails/rtools.mayo.edu_Mayo_PCI_Risk_Score_.png": {
+      "checksum": "7e7bba751cab3206ae4b8fe3f7f34c7e"
+    },
+    "_site/thumbnails/rtools.mayo.edu_mbcProg_.png": {
+      "checksum": "583f084e2808efbc286865c70af89e2a"
+    },
+    "_site/thumbnails/rtools.mayo.edu_PRESTO_calculator_.png": {
+      "checksum": "79f1a506b8b524e171378ceea9e99822"
+    },
+    "_site/thumbnails/rtools.mayo.edu_tnbcProg_.png": {
+      "checksum": "d1ae76bea973a8a883b708ec03090dd3"
+    },
+    "_site/thumbnails/skylab.cdph.ca.gov_communityBurden_.png": {
+      "checksum": "efb12e7af01cc22057d04a07330f2286"
+    },
+    "_site/thumbnails/skylab.cdph.ca.gov_ODdash_.png": {
+      "checksum": "e22c6e74a862f73ad1cd24caed9a8402"
+    },
+    "_site/todo.html": {
+      "checksum": "f144eceacea9c0c48e1b6497b7435e8f"
+    },
+    ".Rprofile": {
+      "checksum": "471abfea874f0b007a8a38efffe89e91"
+    },
+    "apps.yml": {
+      "checksum": "8d45abe875fbfea3d1b51be7db5c6033"
+    },
+    "data/raw.csv": {
+      "checksum": "e3ece085cc2b091481849b3ef62036bf"
+    },
+    "index.qmd": {
+      "checksum": "db0e4d8f1ffa38686a814dd8ea998a65"
+    },
+    "R/import.R": {
+      "checksum": "460ac2418c4105fc01ac8bf9ddc18006"
+    },
+    "R/renv.lock": {
+      "checksum": "89a0678db93b085ce1bb2198f5a6a810"
+    },
+    "showcase.ejs": {
+      "checksum": "02af3966a83355d6e3f685e410f5837d"
+    },
+    "styles.scss": {
+      "checksum": "2cdacd3519dc2ea73d04b48d9cca1129"
+    },
+    "thumbnails/19andme.covid19.mathematica.org_.png": {
+      "checksum": "6c9fb10301b253cd7f90a2ebb5cae650"
+    },
+    "thumbnails/appshare.cancer.gov_connect_.png": {
+      "checksum": "d0699e1ef1fdea87fe918e8895934c90"
+    },
+    "thumbnails/calcat.covid19.ca.gov_cacovidmodels.png": {
+      "checksum": "93ac3cfbd6a14d40ad7a3df7e61797ec"
+    },
+    "thumbnails/covid19dashboard.regeneron.com_content_1__tab=Home.png": {
+      "checksum": "179d442bcc5562ad2478103f3f51d8e8"
+    },
+    "thumbnails/covid19risk.biosci.gatech.edu_.png": {
+      "checksum": "bcb035f56fd2f3d2ed4867358d9a0774"
+    },
+    "thumbnails/dnahive.fda.gov_vmap_norovirus_epitope_.png": {
+      "checksum": "3d9aea5553950799cb641ba6af091fe2"
+    },
+    "thumbnails/dnahive.fda.gov_vmap_norovirus_genotype_.png": {
+      "checksum": "5713a388fbb68628cc814b7b9d4bfcbd"
+    },
+    "thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=library.png": {
+      "checksum": "e7bc9e707bc8982bf9a7d2fce02b040d"
+    },
+    "thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=selectivity.png": {
+      "checksum": "9a90b5280e184296197e2abe82689445"
+    },
+    "thumbnails/lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=similarity.png": {
+      "checksum": "cc61f5e0c02d85a09d110491e83118f6"
+    },
+    "thumbnails/phdb.shinyapps.io_covid_.png": {
+      "checksum": "1d6de7cc0890e34cfb0b16aca12b4998"
+    },
+    "thumbnails/poops.nz_.png": {
+      "checksum": "773547d697a8eab7b010738f8f298ba3"
+    },
+    "thumbnails/rconnect.dfci.harvard.edu_covidpr_.png": {
+      "checksum": "4529b5a373dc5ff46bd6b6759b3af60c"
+    },
+    "thumbnails/reports.msf.net_public_covid19_.png": {
+      "checksum": "863d0ba04e5c6d0ccfdfe9837d7eb4ed"
+    },
+    "thumbnails/rtools.mayo.edu_a_milestone_prediction_.png": {
+      "checksum": "ea3122d0db4982682133107a9bb7559c"
+    },
+    "thumbnails/rtools.mayo.edu_DART_.png": {
+      "checksum": "d92e0082194dd11aed68198242f9896e"
+    },
+    "thumbnails/rtools.mayo.edu_diagnostic_test_calculator_.png": {
+      "checksum": "e0b7c761b033f10e6bd5f609c231d379"
+    },
+    "thumbnails/rtools.mayo.edu_dlbcl_trial_eligibility_.png": {
+      "checksum": "1f36596a4f56c1292af871f94f181c0b"
+    },
+    "thumbnails/rtools.mayo.edu_flipi24_calculator_.png": {
+      "checksum": "f03fb4acfec350164e57f5fe1108fac1"
+    },
+    "thumbnails/rtools.mayo.edu_Mayo_PCI_Risk_Score_.png": {
+      "checksum": "7e7bba751cab3206ae4b8fe3f7f34c7e"
+    },
+    "thumbnails/rtools.mayo.edu_mbcProg_.png": {
+      "checksum": "583f084e2808efbc286865c70af89e2a"
+    },
+    "thumbnails/rtools.mayo.edu_PRESTO_calculator_.png": {
+      "checksum": "79f1a506b8b524e171378ceea9e99822"
+    },
+    "thumbnails/rtools.mayo.edu_tnbcProg_.png": {
+      "checksum": "d1ae76bea973a8a883b708ec03090dd3"
+    },
+    "thumbnails/skylab.cdph.ca.gov_communityBurden_.png": {
+      "checksum": "efb12e7af01cc22057d04a07330f2286"
+    },
+    "thumbnails/skylab.cdph.ca.gov_ODdash_.png": {
+      "checksum": "e22c6e74a862f73ad1cd24caed9a8402"
+    },
+    "todo.md": {
+      "checksum": "b9894e53306720d36c85dc6a9fb7614d"
+    }
+  },
+  "users": null
+}
