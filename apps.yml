@@ -1,155 +1,219 @@
-- url: https://rconnect.dfci.harvard.edu/covidpr/
-  org: Harvard
-  title: Monitoreo de COVID-19 en Puerto Rico
-  thumbnail: rconnect.dfci.harvard.edu_covidpr_.png
-  description: This tool provides a detailed summary of the COVID-19 cases in Puerto
-    Rico provided by the PR Department of Health.
-- url: http://www.de-brouwer.com/about/covid.html
-  org: Philippe De Brouwer (personal)
-  title: Covid-19 Dashboard
-  thumbnail: phdb.shinyapps.io_covid_.png
-  description: This app generates a comparison analysis on COVID-19 by country, stages
-    of infection, and mortality rates with data from John Hopkins University.
-- url: https://skylab.cdph.ca.gov/ODdash/
-  org: California Department of Public Health
-  title: Opioid Overdose Survey
-  thumbnail: skylab.cdph.ca.gov_communityBurden_.png
-  description: This app provides data on state and local level drug-related overdose
-    outcomes for California, including deaths, emergency department visits, and hospitalizations,
-    as well as opioid and select other drug prescription data.
-- url: https://skylab.cdph.ca.gov/communityBurden/#tab-2190-1
-  org: California Department of Public Health
-  title: CCB (Disease and Cost Engine)
-  thumbnail: skylab.cdph.ca.gov_ODdash_.png
-  description: A tool that can explore data on burden of disease in multiple levels
-    of geographic granularity in order to answer and generate questions, both simple
-    and complex, about the intersection between health disparities and place.
-- url: https://reports.msf.net/public/covid19/
-  org: Epicentre
-  title: Covid-19 EPI Dashboard
-  thumbnail: reports.msf.net_public_covid19_.png
-  description: This app provide a global epidemiological overview of the COVID-19
-    pandemic, incorporating data from multiple sources.
-- url: https://covid19dashboard.regeneron.com/?tab=Home&subTab=Europe
-  org: Regeneron
-  title: COVID-19 Dashboard
-  thumbnail: covid19dashboard.regeneron.com_content_1__tab=Home.png
-  description: An app that tracks COVID-19 genomic mutations by country and historical
-    data.
-- url: https://19andme.covid19.mathematica.org
-  org: Mathematica
-  title: COVID-19 Risk Score Calculator
-  thumbnail: 19andme.covid19.mathematica.org_.png
-  description: This app synthesizes reported COVID-19 geographic case data and rapidly
-    evolving scientific research to help you ballpark how much risk this disease poses
-    to you.
-- url: https://appshare.cancer.gov/connect/
-  org: National Cancer Institute
-  title: Colorectal Cancer Cure Probability Calculator
-  thumbnail: appshare.cancer.gov_connect_.png
-  description: This app estimates the probability that a patient with colorectal cancer
-    is cured of their cancer.
-- url: https://calcat.covid19.ca.gov/cacovidmodels/
-  org: California Department of Public Health
-  title: California Communicable Diseases Assessment Tool
-  thumbnail: calcat.covid19.ca.gov_cacovidmodels.png
-  description: An app that provides ensemble estimates of critical COVID-19 and influenza
-    metrics from a variety of models, the site facilitates comparison, dialogue, and
-    clarity around trends in the COVID-19 pandemic and across broader infectious disease
-    surveillance.
-- url: https://poops.nz/
-  org: New Zealand Institute of Environmental Science and Research
-  title: ESR Wastewater Surveillance
-  thumbnail: poops.nz_.png
-  description: An app used to track COVID-19 risk in local areas by testing wastewater
-    samples for the presence of SARS-CoV-2.
-- url: https://rtools.mayo.edu/a_milestone_prediction/
-  org: Mayo Clinic
-  title: Milestone Prediction Tool
-  thumbnail: rtools.mayo.edu_a_milestone_prediction_.png
-  description: An app used to predict a milestone time (time to a specific number
-    of events) for clinical trial monitoring.
-- url: https://rtools.mayo.edu/DART/
-  org: Mayo Clinic
-  title: Dutch-American Risk Stratification Tool
-  thumbnail: rtools.mayo.edu_DART_.png
-  description: The Dutch-American Risk stratification Tool (DART‐1) to calculate the
-    probability (%) of IPMNs without worrisome features or high‐risk stigmata at diagnosis
-    to progress and fulfill resection criteria according the 2012 International Fukuoka
-    guidelines.
-- url: https://rtools.mayo.edu/diagnostic_test_calculator/
-  org: Mayo Clinic
-  title: DxStat
-  thumbnail: rtools.mayo.edu_diagnostic_test_calculator_.png
-  description: An app that can be used for both confidence interval estimation and
-    sample size estimation in diagnostic testing studies.
-- url: https://rtools.mayo.edu/dlbcl_trial_eligibility/
-  org: Mayo Clinic
-  title: Clinical Trial Eligibility Estimator
-  thumbnail: rtools.mayo.edu_dlbcl_trial_eligibility_.png
-  description: An app that shows clinical trial eligibility for Diffuse Large B-cell
-    Lymphoma patients.
-- url: https://rtools.mayo.edu/flipi24_calculator/
-  org: Mayo Clinic
-  title: Follicular Lymphoma Early Event Risk Calculator
-  thumbnail: rtools.mayo.edu_flipi24_calculator_.png
-  description: FLIPI24 follicular lymphoma early event risk calculator.
-- url: https://rtools.mayo.edu/Mayo_PCI_Risk_Score/
-  org: Mayo Clinic
-  title: Mortality and Morbidity Prediction
-  thumbnail: rtools.mayo.edu_Mayo_PCI_Risk_Score_.png
-  description: An app that calculates risk of various comorbidities given input data
-- url: https://rtools.mayo.edu/mbcProg/
-  org: Mayo Clinic
-  title: Metastatic Breast Cancer Prognostic Calculator
-  thumbnail: rtools.mayo.edu_mbcProg_.png
-  description: This tool provides an estimated survivability percentage for those
-    with metastatic breast cancer based on several different inputs.
-- url: https://rtools.mayo.edu/PRESTO_calculator/
-  org: Mayo Clinic
-  title: PRESTO App
-  thumbnail: rtools.mayo.edu_PRESTO_calculator_.png
-  description: An app that calculates the PRESTO score for risk of liver decomposition
-    in patients with PSC.
-- url: https://rtools.mayo.edu/tnbcProg/
-  org: Mayo Clinic
-  title: Triple Negative Breast Cancer Prognostic Calculator
-  thumbnail: rtools.mayo.edu_tnbcProg_.png
-  description: An app that calculates triple negative breast cancer prognosis with
-    given input data.
-- url: https://covid19risk.biosci.gatech.edu/
-  org: Georgia Institute of Technology
-  title: COVID-19 Event Risk Tool
-  thumbnail: covid19risk.biosci.gatech.edu_.png
-  description: An app that shows the risk level of attending an event, given the event
-    size and location.
-- url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22selectivity%22
-  org: Harvard Medical School
-  title: Small Molecule Selectivity App
-  thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=selectivity.png
-  description: This app shows the affinity and selectivity of compounds for a protein
-    of interest.
-- url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22similarity%22
-  org: Harvard Medical School
-  title: Small Molecule Similiarity App
-  thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=similarity.png
-  description: This app shows the similarity of compounds to a reference probe or
-    drug.
-- url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22library%22
-  org: Harvard Medical School
-  title: Small Molecule Library App
-  thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=library.png
-  description: An app that composes custom chemical genetic libraries for gene-sets
-    of interest.
-- url: https://dnahive.fda.gov/vmap/norovirus/genotype/
-  org: FDA
-  title: 'GANo: Genotype Tracker'
-  thumbnail: dnahive.fda.gov_vmap_norovirus_genotype_.png
-  description: This app provides curated and comprehensive databases for visualization
-    and analysis of norovirus genetic and antigenic diversification.
-- url: https://dnahive.fda.gov/vmap/norovirus/epitope/
-  org: FDA
-  title: 'GANo: GII.4 Epitope Tracker'
-  thumbnail: dnahive.fda.gov_vmap_norovirus_epitope_.png
-  description: This app provides curated and comprehensive databases for visualization
-    and analysis of norovirus genetic and antigenic diversification.
+- category: Medicine
+  tiles:
+    - org: Mathematica
+      title: COVID-19 Risk Score Calculator
+      url: https://19andme.covid19.mathematica.org
+      description: This app synthesizes reported COVID-19 geographic case data and
+        rapidly evolving scientific research to help you ballpark how much risk this
+        disease poses to you.
+      thumbnail: 19andme.covid19.mathematica.org_.png
+      order: 1.0
+      tags: covid-19, risk calculator
+    - org: Mayo Clinic
+      title: Mortality and Morbidity Prediction
+      url: https://rtools.mayo.edu/Mayo_PCI_Risk_Score/
+      description: An app that calculates risk of various comorbidities given input
+        data
+      thumbnail: rtools.mayo.edu_Mayo_PCI_Risk_Score_.png
+      order: 2.0
+      tags: risk calculator, cancer, comorbitity
+    - org: National Cancer Institute
+      title: Colorectal Cancer Cure Probability Calculator
+      url: https://appshare.cancer.gov/connect/
+      description: This app estimates the probability that a patient with colorectal
+        cancer is cured of their cancer.
+      thumbnail: appshare.cancer.gov_connect_.png
+      order: .na.real
+      tags: risk calculator, cancer
+    - org: Mayo Clinic
+      title: Dutch-American Risk Stratification Tool
+      url: https://rtools.mayo.edu/DART/
+      description: The Dutch-American Risk stratification Tool (DART‐1) to calculate
+        the probability (%) of IPMNs without worrisome features or high‐risk stigmata
+        at diagnosis to progress and fulfill resection criteria according the 2012
+        International Fukuoka guidelines.
+      thumbnail: rtools.mayo.edu_DART_.png
+      order: .na.real
+      tags: risk calculator, cancer
+    - org: Mayo Clinic
+      title: DxStat
+      url: https://rtools.mayo.edu/diagnostic_test_calculator/
+      description: An app that can be used for both confidence interval estimation
+        and sample size estimation in diagnostic testing studies.
+      thumbnail: rtools.mayo.edu_diagnostic_test_calculator_.png
+      order: .na.real
+      tags: sample size, confidence interval estimation
+    - org: Mayo Clinic
+      title: Follicular Lymphoma Early Event Risk Calculator
+      url: https://rtools.mayo.edu/flipi24_calculator/
+      description: FLIPI24 follicular lymphoma early event risk calculator.
+      thumbnail: rtools.mayo.edu_flipi24_calculator_.png
+      order: .na.real
+      tags: cancer, follicular lymphoma, risk calculator
+    - org: Mayo Clinic
+      title: Metastatic Breast Cancer Prognostic Calculator
+      url: https://rtools.mayo.edu/mbcProg/
+      description: This tool provides an estimated survivability percentage for those
+        with metastatic breast cancer based on several different inputs.
+      thumbnail: rtools.mayo.edu_mbcProg_.png
+      order: .na.real
+      tags: cancer, breast cancer, calculator, survival
+    - org: Mayo Clinic
+      title: PRESTO App
+      url: https://rtools.mayo.edu/PRESTO_calculator/
+      description: An app that calculates the PRESTO score for risk of liver decomposition
+        in patients with PSC.
+      thumbnail: rtools.mayo.edu_PRESTO_calculator_.png
+      order: .na.real
+      tags: score calculator
+    - org: Mayo Clinic
+      title: Triple Negative Breast Cancer Prognostic Calculator
+      url: https://rtools.mayo.edu/tnbcProg/
+      description: An app that calculates triple negative breast cancer prognosis
+        with given input data.
+      thumbnail: rtools.mayo.edu_tnbcProg_.png
+      order: .na.real
+      tags: cancer, breast cancer, calculator, survival
+  order: 1.0
+- category: Public Health
+  tiles:
+    - org: Georgia Institute of Technology
+      title: COVID-19 Event Risk Tool
+      url: https://covid19risk.biosci.gatech.edu/
+      description: An app that shows the risk level of attending an event, given the
+        event size and location.
+      thumbnail: covid19risk.biosci.gatech.edu_.png
+      order: 3.0
+      tags: map, state, county, covid-19, risk
+    - org: California Department of Public Health
+      title: CCB (Disease and Cost Engine)
+      url: https://skylab.cdph.ca.gov/communityBurden/#tab-2190-1
+      description: A tool that can explore data on burden of disease in multiple levels
+        of geographic granularity in order to answer and generate questions, both
+        simple and complex, about the intersection between health disparities and
+        place.
+      thumbnail: skylab.cdph.ca.gov_ODdash_.png
+      order: 4.0
+      tags: map, trend, social determinants of health
+    - org: Harvard
+      title: Monitoreo de COVID-19 en Puerto Rico
+      url: https://rconnect.dfci.harvard.edu/covidpr/
+      description: This tool provides a detailed summary of the COVID-19 cases in
+        Puerto Rico provided by the PR Department of Health.
+      thumbnail: rconnect.dfci.harvard.edu_covidpr_.png
+      order: .na.real
+      tags: spanish, covid-19
+    - org: Philippe De Brouwer (personal)
+      title: Covid-19 Dashboard
+      url: http://www.de-brouwer.com/about/covid.html
+      description: This app generates a comparison analysis on COVID-19 by country,
+        stages of infection, and mortality rates with data from John Hopkins University.
+      thumbnail: phdb.shinyapps.io_covid_.png
+      order: .na.real
+      tags: covid-19, forecast, report, map, table, SIR Model
+    - org: California Department of Public Health
+      title: Opioid Overdose Survey
+      url: https://skylab.cdph.ca.gov/ODdash/
+      description: This app provides data on state and local level drug-related overdose
+        outcomes for California, including deaths, emergency department visits, and
+        hospitalizations, as well as opioid and select other drug prescription data.
+      thumbnail: skylab.cdph.ca.gov_communityBurden_.png
+      order: .na.real
+      tags: opoid, overdose, surveillance, california, state, county,
+    - org: Epicentre
+      title: Covid-19 EPI Dashboard
+      url: https://reports.msf.net/public/covid19/
+      description: This app provide a global epidemiological overview of the COVID-19
+        pandemic, incorporating data from multiple sources.
+      thumbnail: reports.msf.net_public_covid19_.png
+      order: .na.real
+      tags: epidemiology, covid-19, map, trend, msf
+    - org: California Department of Public Health
+      title: California Communicable Diseases Assessment Tool
+      url: https://calcat.covid19.ca.gov/cacovidmodels/
+      description: An app that provides ensemble estimates of critical COVID-19 and
+        influenza metrics from a variety of models, the site facilitates comparison,
+        dialogue, and clarity around trends in the COVID-19 pandemic and across broader
+        infectious disease surveillance.
+      thumbnail: calcat.covid19.ca.gov_cacovidmodels.png
+      order: .na.real
+      tags: covid-19, influenza, forecast, state, county, region
+    - org: New Zealand Institute of Environmental Science and Research
+      title: ESR Wastewater Surveillance
+      url: https://poops.nz/
+      description: An app used to track COVID-19 risk in local areas by testing wastewater
+        samples for the presence of SARS-CoV-2.
+      thumbnail: poops.nz_.png
+      order: .na.real
+      tags: covid-19, surveillance
+  order: 2.0
+- category: Informatics
+  tiles:
+    - org: FDA
+      title: 'GANo: GII.4 Epitope Tracker'
+      url: https://dnahive.fda.gov/vmap/norovirus/epitope/
+      description: This app provides curated and comprehensive databases for visualization
+        and analysis of norovirus genetic and antigenic diversification.
+      thumbnail: dnahive.fda.gov_vmap_norovirus_epitope_.png
+      order: 5.0
+      tags: epitope, map, norovirus
+    - org: Harvard Medical School
+      title: Small Molecule Selectivity App
+      url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22selectivity%22
+      description: This app shows the affinity and selectivity of compounds for a
+        protein of interest.
+      thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=selectivity.png
+      order: 6.0
+      tags: small molecule,  polypharmacology
+    - org: Regeneron
+      title: COVID-19 Dashboard
+      url: https://covid19dashboard.regeneron.com/?tab=Home&subTab=Europe
+      description: An app that tracks COVID-19 genomic mutations by country and historical
+        data.
+      thumbnail: covid19dashboard.regeneron.com_content_1__tab=Home.png
+      order: .na.real
+      tags: covid-19, bioinformatics, map
+    - org: Harvard Medical School
+      title: Small Molecule Similiarity App
+      url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22similarity%22
+      description: This app shows the similarity of compounds to a reference probe
+        or drug.
+      thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=similarity.png
+      order: .na.real
+      tags: compound similarity, polypharmacology
+    - org: Harvard Medical School
+      title: Small Molecule Library App
+      url: https://lsp.connect.hms.harvard.edu/smallmoleculesuite/?_inputs_&tab=%22library%22
+      description: An app that composes custom chemical genetic libraries for gene-sets
+        of interest.
+      thumbnail: lsp.connect.hms.harvard.edu_smallmoleculesuite___inputs_&tab=library.png
+      order: .na.real
+      tags: small molecule,  polypharmacology
+    - org: FDA
+      title: 'GANo: Genotype Tracker'
+      url: https://dnahive.fda.gov/vmap/norovirus/genotype/
+      description: This app provides curated and comprehensive databases for visualization
+        and analysis of norovirus genetic and antigenic diversification.
+      thumbnail: dnahive.fda.gov_vmap_norovirus_genotype_.png
+      order: .na.real
+      tags: genotype, map, norovirus
+  order: 3.0
+- category: Pharma
+  tiles:
+    - org: Mayo Clinic
+      title: Milestone Prediction Tool
+      url: https://rtools.mayo.edu/a_milestone_prediction/
+      description: An app used to predict a milestone time (time to a specific number
+        of events) for clinical trial monitoring.
+      thumbnail: rtools.mayo.edu_a_milestone_prediction_.png
+      order: .na.real
+      tags: clinical trial, bayesian
+    - org: Mayo Clinic
+      title: Clinical Trial Eligibility Estimator
+      url: https://rtools.mayo.edu/dlbcl_trial_eligibility/
+      description: An app that shows clinical trial eligibility for Diffuse Large
+        B-cell Lymphoma patients.
+      thumbnail: rtools.mayo.edu_dlbcl_trial_eligibility_.png
+      order: .na.real
+      tags: cancer, large B-cell lymphoma, clinical trial
+  order: 4.0

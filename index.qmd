@@ -8,3 +8,6 @@ listing:
   template: showcase.ejs
 ---
 
+Shiny apps in action in [Medicine](#medicine), [Public Health](#public-health), [Informatics](#informatics), and [Pharma](#pharma)
+
+

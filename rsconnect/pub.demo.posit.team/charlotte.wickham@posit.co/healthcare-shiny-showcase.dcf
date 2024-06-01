@@ -1,0 +1,12 @@
+name: healthcare-shiny-showcase
+title: healthcare-shiny-showcase
+username: charlotte.wickham@posit.co
+account: charlotte.wickham@posit.co
+server: pub.demo.posit.team
+hostUrl: https://pub.demo.posit.team/__api__
+appId: 11
+bundleId: 33
+url: https://pub.demo.posit.team/content/f296603a-9878-4684-b6b4-f5df9e46c913/
+version: 1
+asMultiple: FALSE
+asStatic: TRUE

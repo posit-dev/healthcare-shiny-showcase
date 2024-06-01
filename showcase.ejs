@@ -1,29 +1,31 @@
 
 ```{=html}
-<div class="list grid" style="column-gap: 20px;">
+<% for (const item of items) { %>
 
-  <% for (const item of items) { %>
-    <div class="card border g-col-12 g-col-md-6 g-col-lg-4 mb-4">
-    <div class = "card-img-top border-bottom">
-      <a href="<%- item.url %>" target="_blank">
-        <div class="rounded-0">
-            <img src="thumbnails/<%- item.thumbnail %>" alt="<%- item.description %>" class="card-img-top gallery-entry__img rounded-0" />
+  <h2><%- item.category %></h2>
+  
+  <div class="list grid" style="column-gap: 20px;">
+
+    <% for (const tile of item.tiles) { %>
+      <div class="card border g-col-12 g-col-md-6 g-col-lg-4 mb-4">
+        <div class = "card-img-top border-bottom">
+          <a href="<%- tile.url %>" target="_blank">
+            <div class="rounded-0">
+                <img src="thumbnails/<%- tile.thumbnail %>" alt="<%- tile.description %>" class="card-img-top gallery-entry__img rounded-0" />
+            </div>
+          </a>
         </div>
-      </a>
-    </div>
-    <div class = "card-body">
-      <h5 class="mt-3 mb-2"><%= item.title %></h5>
-      <div class="text-uppercase font-monospace"><%= item.org %></div>
-      
-      <div class="text-muted"><p><%= item.description %></p></div>
-    </div>
-    
-    <div class="card-footer">
-      <div class="view-app"><a href="<%- item.url %>" target="_blank" class="btn btn-outline-primary">View app</a></div>
-    </div>
-
+        <div class = "card-body">
+          <h5 class="mt-3 mb-2"><%= tile.title %></h5>
+          <div class="text-uppercase font-monospace"><%= tile.org %></div>
+          <div class="text-muted"><p><%= tile.description %></p></div>
+        </div>
+        
+        <div class="card-footer">
+          <div class="view-app"><a href="<%- tile.url %>" target="_blank" class="btn btn-outline-primary">View app</a></div>
+        </div>
+      </div>
+    <% } %>
   </div>
-  <% } %>
-</div>
-
+<% } %>
 ```
