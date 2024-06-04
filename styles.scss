@@ -10,6 +10,14 @@ $headings-font-weight: 300;
 $primary: $posit-blue;
 
 /*-- scss:rules --*/
+
+.call-to-action {
+  @extend .btn;
+  @extend .btn-primary;
+  @extend .rounded;
+  @extend .mb-2;
+}
+
 body {
   font-weight: 400;
 }
