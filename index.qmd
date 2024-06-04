@@ -1,13 +1,17 @@
 ---
-title: '<img class="shiny-logo" src="shiny-solo.png" alt="Shiny"/> in Life Sciences'
+title: Shiny in Life Sciences
 format: 
   html:
     page-layout: full
     title-block-banner: true
+    template-partials: 
+      - title-block.html
 listing: 
   id: app-gallery
   contents: apps.yml
   template: showcase.ejs
+resources: 
+  - shiny-solo.png
 ---
 
 Shiny helps R and Python users build powerful, interactive web apps. Data scientists in the Life Sciences space, including Healthcare, [Medicine](#medicine), [Public Health](#public-health), [Informatics](#informatics), and [Pharma](#pharma) use Shiny to convey critical information and make decisions that make the world better and safer.
