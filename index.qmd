@@ -11,8 +11,9 @@ listing:
 
 Shiny helps R and Python users build powerful, interactive web apps. Data scientists in the Life Sciences space, including Healthcare, [Medicine](#medicine), [Public Health](#public-health), [Informatics](#informatics), and [Pharma](#pharma) use Shiny to convey critical information and make decisions that make the world better and safer.
 
+[Learn more about Shiny](https://shiny.posit.co/){.call-to-action} [Learn more about Posit and Life Sciences](https://posit.co/solutions/pharma/){.call-to-action}
+
 ::: {#app-gallery}
 
 ::: 
 
-[Learn more about Shiny](https://shiny.posit.co/){.call-to-action} [Learn more about Posit and Life Sciences](https://posit.co/solutions/pharma/){.call-to-action}
