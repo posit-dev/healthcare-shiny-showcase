@@ -1,8 +1,9 @@
 ---
-title: "Shiny in Life Sciences"
+title: '<img class="shiny-logo" src="shiny-solo.png" title="Shiny" alt="Shiny Logo"/> in Life Sciences'
 format: 
   html:
     page-layout: full
+    title-block-banner: true
 listing: 
   id: app-gallery
   contents: apps.yml
@@ -17,3 +18,4 @@ Shiny helps R and Python users build powerful, interactive web apps. Data scient
 
 ::: 
 
+To report an issue with this page, or request an app to be added, please open an [Issue on GitHub](https://github.com/posit-dev/healthcare-shiny-showcase/issues).

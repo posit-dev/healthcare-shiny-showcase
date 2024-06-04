@@ -10,6 +10,12 @@ $headings-font-weight: 300;
 $primary: $posit-blue;
 
 /*-- scss:rules --*/
+.shiny-logo {
+  height: 1.3em;
+  vertical-align: top;
+  display: inline-block;
+}
+
 
 .call-to-action {
   @extend .btn;
