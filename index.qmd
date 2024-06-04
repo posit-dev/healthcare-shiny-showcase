@@ -1,5 +1,5 @@
 ---
-title: '<img class="shiny-logo" src="shiny-solo.png" title="Shiny" alt="Shiny Logo"/> in Life Sciences'
+title: '<img class="shiny-logo" src="shiny-solo.png" alt="Shiny"/> in Life Sciences'
 format: 
   html:
     page-layout: full

@@ -35,8 +35,14 @@ h1 {
   line-height: 120%;
 }
 
+h3 {
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 120%;
+}
+
 a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .view-app {
