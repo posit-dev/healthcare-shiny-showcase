@@ -1,0 +1,11 @@
+'$schema' = 'https://cdn.posit.co/publisher/schemas/posit-publishing-schema-v3.json'
+type = 'quarto'
+entrypoint = 'index.qmd'
+validate = true
+has_parameters = false
+files = ['*']
+title = 'Shiny in Healthcare'
+
+[quarto]
+version = '1.4.554'
+engines = ['markdown']
