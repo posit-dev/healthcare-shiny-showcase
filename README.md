@@ -1,0 +1,1 @@
+The repo contains the source for the [Shiny in Life Sciences](https://pub.demo.posit.team/public/Life_Sciences_Shiny_Showcase/) gallery.
