@@ -216,4 +216,22 @@
       thumbnail: rtools.mayo.edu_dlbcl_trial_eligibility_.png
       order: .na.real
       tags: cancer, large B-cell lymphoma, clinical trial
+    - org: Pharmalex Cencora
+      title: Back-PredicteR
+      url: https://shinyapps.smartphlex.com/!backpredicter/
+      description: |-
+        This app helps you to back-predict signals (response) to concentrations (results) when the relation between the response and the result is known.
+        This is particularly useful in laboratories when determining the concentration of unknown samples through assays such as absorbance or fluorescence measurements.
+      thumbnail: shinyapps.smartphlex.com_backpredicter.png
+      order: .na.real
+      tags: assay, calibration
+    - org: Pharmalex Cencora
+      title: Two Sample Trial Designer
+      url: https://shinyapps.smartphlex.com/!ss2binom/
+      description: This app enables you to specify your prior feelings about the effectiveness
+        of two competing treatments (standard and novel), and subsequently find the
+        sample size you would need to test whether the two are significantly different.
+      thumbnail: shinyapps.smartphlex.com_ss2binom.png
+      order: .na.real
+      tags: clinical trial, bayesian, sample size
   order: 4.0
