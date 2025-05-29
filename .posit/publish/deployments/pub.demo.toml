@@ -2,38 +2,47 @@
 '$schema' = 'https://cdn.posit.co/publisher/schemas/posit-publishing-record-schema-v3.json'
 server_type = 'connect'
 server_url = 'https://pub.demo.posit.team/'
-client_version = '1.0.alpha7'
+client_version = '1.16.1'
 created_at = '2024-06-01T14:10:57-07:00'
+dismissed_at = ''
+type = 'quarto'
 configuration_name = 'default'
 id = '5a9c0f1f-0037-439a-8339-7adcbfe95f91'
-deployed_at = '2024-06-04T12:16:17-07:00'
-bundle_id = '129'
-bundle_url = 'https://pub.demo.posit.team//__api__/v1/content/5a9c0f1f-0037-439a-8339-7adcbfe95f91/bundles/129/download'
 dashboard_url = 'https://pub.demo.posit.team//connect/#/apps/5a9c0f1f-0037-439a-8339-7adcbfe95f91'
-direct_url = 'https://pub.demo.posit.team//content/5a9c0f1f-0037-439a-8339-7adcbfe95f91'
+direct_url = 'https://pub.demo.posit.team//content/5a9c0f1f-0037-439a-8339-7adcbfe95f91/'
+logs_url = 'https://pub.demo.posit.team//connect/#/apps/5a9c0f1f-0037-439a-8339-7adcbfe95f91/logs'
+deployed_at = '2025-05-29T14:41:00-07:00'
+bundle_id = '1300'
+bundle_url = 'https://pub.demo.posit.team//__api__/v1/content/5a9c0f1f-0037-439a-8339-7adcbfe95f91/bundles/1300/download'
 files = [
   '.Rprofile',
   '.gitignore',
   '.posit/publish/default.toml',
   '.posit/publish/deployments/pub.demo.toml',
+  'Posit-Logos-2024_horiz-full-color.svg',
   'R/import.R',
   'R/renv.lock',
   'R/renv/.gitignore',
   'R/renv/activate.R',
   'R/renv/settings.json',
+  'README.md',
   '_quarto.yml',
+  '_site/Posit-Logos-2024_horiz-full-color.svg',
   '_site/index.html',
   '_site/listings.json',
   '_site/search.json',
+  '_site/shiny-solo.png',
+  '_site/site_libs/bootstrap/bootstrap-a21438e23396d553f37e8d774d83f9cf.min.css',
   '_site/site_libs/bootstrap/bootstrap-icons.css',
   '_site/site_libs/bootstrap/bootstrap-icons.woff',
-  '_site/site_libs/bootstrap/bootstrap.min.css',
   '_site/site_libs/bootstrap/bootstrap.min.js',
   '_site/site_libs/clipboard/clipboard.min.js',
   '_site/site_libs/quarto-html/anchor.min.js',
+  '_site/site_libs/quarto-html/axe/axe-check.js',
   '_site/site_libs/quarto-html/popper.min.js',
-  '_site/site_libs/quarto-html/quarto-syntax-highlighting.css',
+  '_site/site_libs/quarto-html/quarto-syntax-highlighting-09b140d2d032adf2aedb8b099be3ee13.css',
   '_site/site_libs/quarto-html/quarto.js',
+  '_site/site_libs/quarto-html/tabsets/tabsets.js',
   '_site/site_libs/quarto-html/tippy.css',
   '_site/site_libs/quarto-html/tippy.umd.min.js',
   '_site/site_libs/quarto-listing/list.min.js',
@@ -65,11 +74,14 @@ files = [
   '_site/thumbnails/rtools.mayo.edu_flipi24_calculator_.png',
   '_site/thumbnails/rtools.mayo.edu_mbcProg_.png',
   '_site/thumbnails/rtools.mayo.edu_tnbcProg_.png',
+  '_site/thumbnails/shinyapps.smartphlex.com_backpredicter.png',
+  '_site/thumbnails/shinyapps.smartphlex.com_ss2binom.png',
   '_site/thumbnails/skylab.cdph.ca.gov_ODdash_.png',
   '_site/thumbnails/skylab.cdph.ca.gov_communityBurden_.png',
   'apps.yml',
   'data/raw.csv',
   'index.qmd',
+  'shiny-solo.png',
   'showcase.ejs',
   'styles.scss',
   'thumbnails/19andme.covid19.mathematica.org_.png',
@@ -95,8 +107,11 @@ files = [
   'thumbnails/rtools.mayo.edu_flipi24_calculator_.png',
   'thumbnails/rtools.mayo.edu_mbcProg_.png',
   'thumbnails/rtools.mayo.edu_tnbcProg_.png',
+  'thumbnails/shinyapps.smartphlex.com_backpredicter.png',
+  'thumbnails/shinyapps.smartphlex.com_ss2binom.png',
   'thumbnails/skylab.cdph.ca.gov_ODdash_.png',
-  'thumbnails/skylab.cdph.ca.gov_communityBurden_.png'
+  'thumbnails/skylab.cdph.ca.gov_communityBurden_.png',
+  'title-block.html'
 ]
 
 [configuration]
@@ -104,8 +119,9 @@ files = [
 type = 'quarto'
 entrypoint = 'index.qmd'
 validate = true
-has_parameters = false
-files = ['*']
+files = [
+  '*'
+]
 title = 'Shiny in Healthcare'
 
 [configuration.quarto]
